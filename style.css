@@ -4,13 +4,14 @@
     box-sizing: border-box;
 }
 
-@font-face{
-    font-family: Jfontsmall;
-    src: url("./JfontJsmall.ttf");
+@font-face {
+    font-family: 'Jfontsmall';
+    src: url('JfontJsmall.ttf') format('truetype');
 }
-@font-face{
-    font-family: Jfont;
-    src: url("./Jfont1.ttf");
+
+@font-face {
+    font-family: 'Jfont';
+    src: url('Jfont1.ttf') format('truetype');
 }
 .katana1{
     right: 0;
