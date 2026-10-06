@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: 'Jfontsmall';
-    src: url('JfontJsmall.ttf')
+    src: url('JfontJsmall.ttf');
 }
 
 @font-face {
     font-family: 'Jfont';
-    src: url('Jfont1.ttf')
+    src: url('Jfont1.ttf');
 .katana1{
     right: 0;
     bottom: 0; 
